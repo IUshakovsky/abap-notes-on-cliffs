@@ -142,7 +142,7 @@ lt_global_holding_goods = lt_store_global.
 move-corresponding lt_store_rus to lt_global_holding_goods expanding nested tables keeping target lines.
 
 
-*** loop with groupping
+*** loop with grouping
 types: begin of lty_manager_bonus,
          depart_id    type i,
          manager_id   type i,
